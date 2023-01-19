@@ -1,4 +1,4 @@
-public class longestValidParenthesis {
+public class LongestValidParenthesis {
     static int [] arr = new int [10];
     static int t=0;
     public static void push(int a){
