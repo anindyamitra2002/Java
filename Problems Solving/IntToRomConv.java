@@ -1,4 +1,4 @@
-public class intToRomConv {
+public class IntToRomConv {
     public static void conv(int num){
         int n, i;
         while(num > 0){
