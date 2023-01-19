@@ -1,4 +1,4 @@
-public class longestCommonPrefix {
+public class LongestCommonPrefix {
     public static void main(String[] args) {
         StringBuilder prefix = new StringBuilder();
         int i;
