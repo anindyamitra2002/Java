@@ -1,4 +1,4 @@
-public class longestPalindromicString {
+public class LongestPalindromicString {
     static String reverseString(String str){
 
         char [] reverse = new char[str.length()];
