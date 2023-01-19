@@ -1,4 +1,4 @@
-public class mergeSort {
+public class MergeSort {
     public static void merge(int []arr,int low,int high, int mid){
         int i = low;
         int j = mid+1;
