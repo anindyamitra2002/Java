@@ -1,4 +1,4 @@
-public class validParenthesis {
+public class ValidParenthesis {
     public static void main(String[] args) {
         String par = "{({}([]";
         int a=0, b=0, c=0, i;
