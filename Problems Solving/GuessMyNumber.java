@@ -18,7 +18,7 @@ class GameLogic{
         }
     }
 }
-public class guessMyNumber {
+public class GuessMyNumber {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         Random rand = new Random();
