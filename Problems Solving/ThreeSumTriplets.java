@@ -1,4 +1,4 @@
-public class threeSumTriplets {
+public class ThreeSumTriplets {
     public static void main(String[] args) {
         int []a = {3,-1,2,1,0,-1,-3,4};
         int [][] c = new int[10][10];
