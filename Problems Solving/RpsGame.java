@@ -23,7 +23,7 @@ class GameEngine{
         System.out.println("Hi " + name + ", Welcome to Rock-Paper-Scissor Game!...");
     }
 }
-public class rpsGame {
+public class RpsGame {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         Random rnd = new Random();
